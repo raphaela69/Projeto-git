@@ -1,1 +1,0 @@
-console.log("na faixa de gaza")
